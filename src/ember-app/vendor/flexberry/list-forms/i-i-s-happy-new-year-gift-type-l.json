@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-happy-new-year-gift-type-e",
+  "editForm": "i-i-s-happy-new-year-gift-type-e",
+  "external": false,
+  "caption": "Gift type",
+  "name": "IISHappy_New_YearGiftTypeL",
+  "className": "GiftTypeL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-happy-new-year-gift-type",
+      "modelProjection": "GiftTypeL"
+    }
+  ]
+}

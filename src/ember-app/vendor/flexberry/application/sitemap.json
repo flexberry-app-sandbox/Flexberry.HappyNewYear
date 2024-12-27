@@ -1,0 +1,29 @@
+﻿{
+  "applicationCaption": "Happy_ new_ year",
+  "applicationTitle": "Happy_ new_ year",
+  "items": [
+    {
+      "link": null,
+      "menuName": "happy-new-year",
+      "caption": "Happy_New_Year",
+      "title": "Happy_New_Year",
+      "children": [
+        {
+          "link": "i-i-s-happy-new-year-gift-l",
+          "menuName": null,
+          "caption": "Gift",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-happy-new-year-gift-type-l",
+          "menuName": null,
+          "caption": "Gift type",
+          "title": "",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}

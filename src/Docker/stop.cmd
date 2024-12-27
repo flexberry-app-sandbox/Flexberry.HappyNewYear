@@ -1,0 +1,1 @@
+docker-compose -p happy_new_year down

@@ -1,0 +1,23 @@
+﻿{
+  "propertyLookup": [
+    {
+      "master": null,
+      "displayAttributeName": null,
+      "required": false,
+      "relationName": "GiftType",
+      "projection": "GiftTypeL",
+      "detailModelName": null
+    }
+  ],
+  "external": false,
+  "caption": "Gift",
+  "name": "IISHappy_New_YearGiftE",
+  "className": "GiftE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-happy-new-year-gift",
+      "modelProjection": "GiftE"
+    }
+  ]
+}
